@@ -1,0 +1,8 @@
+#/bin/bash
+
+rm -f states.txt
+
+#compile and execute
+/usr/local/common/gcc-7.3.0/bin/g++ proj4.cpp -o p4 -lm -fopenmp
+./p4
+

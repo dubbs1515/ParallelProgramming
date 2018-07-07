@@ -1,0 +1,120 @@
+
+Fine + Dynamic
+Number of Threads: 1
+Execution time: 0.145416
+MegaBodies Computed per Second: 13.7536
+
+
+Fine + Dynamic
+Number of Threads: 2
+Execution time: 0.255753
+MegaBodies Computed per Second: 7.82005
+
+
+Fine + Dynamic
+Number of Threads: 4
+Execution time: 0.203604
+MegaBodies Computed per Second: 9.82298
+
+
+Fine + Dynamic
+Number of Threads: 8
+Execution time: 0.235858
+MegaBodies Computed per Second: 8.47967
+
+
+Fine + Dynamic
+Number of Threads: 16
+Execution time: 0.278352
+MegaBodies Computed per Second: 7.18515
+
+
+Fine + Static
+Number of Threads: 1
+Execution time: 0.10336
+MegaBodies Computed per Second: 19.3498
+
+
+Fine + Static
+Number of Threads: 2
+Execution time: 0.13242
+MegaBodies Computed per Second: 15.1035
+
+
+Fine + Static
+Number of Threads: 4
+Execution time: 0.078345
+MegaBodies Computed per Second: 25.5281
+
+
+Fine + Static
+Number of Threads: 8
+Execution time: 0.114011
+MegaBodies Computed per Second: 17.5422
+
+
+Fine + Static
+Number of Threads: 16
+Execution time: 0.298318
+MegaBodies Computed per Second: 6.70426
+
+
+Course + Dynamic
+Number of Threads: 1
+Execution time: 0.113159
+MegaBodies Computed per Second: 17.6742
+
+
+Course + Dynamic
+Number of Threads: 2
+Execution time: 0.0915849
+MegaBodies Computed per Second: 21.8377
+
+
+Course + Dynamic
+Number of Threads: 4
+Execution time: 0.0438729
+MegaBodies Computed per Second: 45.5863
+
+
+Course + Dynamic
+Number of Threads: 8
+Execution time: 0.0251173
+MegaBodies Computed per Second: 79.6263
+
+
+Course + Dynamic
+Number of Threads: 16
+Execution time: 0.0211264
+MegaBodies Computed per Second: 94.6682
+
+
+Course + Static
+Number of Threads: 1
+Execution time: 0.165364
+MegaBodies Computed per Second: 12.0945
+
+
+Course + Static
+Number of Threads: 2
+Execution time: 0.0864157
+MegaBodies Computed per Second: 23.1439
+
+
+Course + Static
+Number of Threads: 4
+Execution time: 0.0451475
+MegaBodies Computed per Second: 44.2992
+
+
+Course + Static
+Number of Threads: 8
+Execution time: 0.0257719
+MegaBodies Computed per Second: 77.6038
+
+
+Course + Static
+Number of Threads: 16
+Execution time: 0.016334
+MegaBodies Computed per Second: 122.444
+

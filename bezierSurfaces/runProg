@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#Test execution with 1 2 3 4 threads & multiple different subdivisions
+for numThr in 1 2 4 8
+do
+	echo 
+	echo Number of Threads: $numThr 	
+	for numNodes in 125 250 500 1000 2000 4000 8000 16000 32000
+	do
+		echo
+		echo  Number of Nodes: $numNodes 
+		#compile and define variables
+		/usr/local/common/gcc-7.3.0/bin/g++ -DNUMNODES=$numNodes -DNUMTHREADS=$numThr numInt.cpp -o p1 -lm -fopenmp
+		#execute
+		./p1	   
+	done
+	echo
+	echo
+done

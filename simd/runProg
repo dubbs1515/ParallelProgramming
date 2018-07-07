@@ -1,0 +1,13 @@
+#!/bin/bash
+
+rm -f results.txt
+
+for testType in 0 1
+do 
+	#for arrSize in 1000 3200  32000  320000  3200000  32000000
+	for arrSize in 1024 2048 4096 8192 16384 32768  65536 131072 262144 524288 1048576 2097152 4194304 8388608 16777216 33554432
+	do
+		g++ -DTESTTYPE=$testType -DARRSIZE=$arrSize -DNUMTRIES=10 proj5.cpp simd.p5.cpp -o p5 -lm -fopenmp
+		./p5
+	done
+done

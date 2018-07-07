@@ -1,0 +1,17 @@
+#!/bin/bash
+
+rm -f results.txt
+
+for coarse in 0 1
+do 
+	for static in  0 1
+	do
+		for numThr in 1 2 4 8 16
+		do
+			#compile and define variables
+			/usr/local/common/gcc-7.3.0/bin/g++ -DCOARSE=$coarse -DSTATIC=$static -DNUMTHREADS=$numThr nBody.cpp -o p2 -lm -fopenmp
+			#execute
+			./p2	
+		done
+	done
+done

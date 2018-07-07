@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/usr/local/bin/g++-8 dubbsc_proj7A.cpp -o p7A -framework OpenCL -framework OpenGL -framework GLUT -framework GLUI -lm -fopenmp -w
+./p7A

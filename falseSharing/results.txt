@@ -1,0 +1,321 @@
+
+Fix Type 1--Padding: 
+Padding: 0
+Number of Threads: 1
+Execution Time: 13.3826483041
+MegaIncrements Computed per Second: 74.7236254945
+
+Fix Type 1--Padding: 
+Padding: 1
+Number of Threads: 1
+Execution Time: 13.6951823756
+MegaIncrements Computed per Second: 73.0183777458
+
+Fix Type 1--Padding: 
+Padding: 2
+Number of Threads: 1
+Execution Time: 13.7608321570
+MegaIncrements Computed per Second: 72.6700237741
+
+Fix Type 1--Padding: 
+Padding: 3
+Number of Threads: 1
+Execution Time: 13.4766580779
+MegaIncrements Computed per Second: 74.2023722958
+
+Fix Type 1--Padding: 
+Padding: 4
+Number of Threads: 1
+Execution Time: 13.3942643404
+MegaIncrements Computed per Second: 74.6588222082
+
+Fix Type 1--Padding: 
+Padding: 5
+Number of Threads: 1
+Execution Time: 13.5223950855
+MegaIncrements Computed per Second: 73.9513964556
+
+Fix Type 1--Padding: 
+Padding: 6
+Number of Threads: 1
+Execution Time: 13.4004947003
+MegaIncrements Computed per Second: 74.6241107037
+
+Fix Type 1--Padding: 
+Padding: 7
+Number of Threads: 1
+Execution Time: 13.5298296791
+MegaIncrements Computed per Second: 73.9107604250
+
+Fix Type 1--Padding: 
+Padding: 8
+Number of Threads: 1
+Execution Time: 13.3921529036
+MegaIncrements Computed per Second: 74.6705930852
+
+Fix Type 1--Padding: 
+Padding: 9
+Number of Threads: 1
+Execution Time: 13.3382233027
+MegaIncrements Computed per Second: 74.9725040062
+
+Fix Type 1--Padding: 
+Padding: 10
+Number of Threads: 1
+Execution Time: 13.7923010904
+MegaIncrements Computed per Second: 72.5042176387
+
+Fix Type 1--Padding: 
+Padding: 11
+Number of Threads: 1
+Execution Time: 13.2023110017
+MegaIncrements Computed per Second: 75.7443147544
+
+Fix Type 1--Padding: 
+Padding: 12
+Number of Threads: 1
+Execution Time: 13.0827121250
+MegaIncrements Computed per Second: 76.4367503040
+
+Fix Type 1--Padding: 
+Padding: 13
+Number of Threads: 1
+Execution Time: 13.4184960928
+MegaIncrements Computed per Second: 74.5239997900
+
+Fix Type 1--Padding: 
+Padding: 14
+Number of Threads: 1
+Execution Time: 13.6514340974
+MegaIncrements Computed per Second: 73.2523772127
+
+Fix Type 1--Padding: 
+Padding: 15
+Number of Threads: 1
+Execution Time: 13.3590123188
+MegaIncrements Computed per Second: 74.8558333609
+
+Fix Type 1--Padding: 
+Padding: 16
+Number of Threads: 1
+Execution Time: 13.5477623288
+MegaIncrements Computed per Second: 73.8129276063
+
+Fix Type 2--Private Variable: 
+Number of Threads: 1
+Execution Time: 13.5815857928
+MegaIncrements Computed per Second: 73.6291045283
+
+Fix Type 1--Padding: 
+Padding: 0
+Number of Threads: 2
+Execution Time: 14.9273760021
+MegaIncrements Computed per Second: 66.9910103330
+
+Fix Type 1--Padding: 
+Padding: 1
+Number of Threads: 2
+Execution Time: 9.8824250679
+MegaIncrements Computed per Second: 101.1897376529
+
+Fix Type 1--Padding: 
+Padding: 2
+Number of Threads: 2
+Execution Time: 10.7017600425
+MegaIncrements Computed per Second: 93.4425735610
+
+Fix Type 1--Padding: 
+Padding: 3
+Number of Threads: 2
+Execution Time: 13.2204620261
+MegaIncrements Computed per Second: 75.6403216489
+
+Fix Type 1--Padding: 
+Padding: 4
+Number of Threads: 2
+Execution Time: 10.2880549282
+MegaIncrements Computed per Second: 97.2001031274
+
+Fix Type 1--Padding: 
+Padding: 5
+Number of Threads: 2
+Execution Time: 8.0773514938
+MegaIncrements Computed per Second: 123.8029570426
+
+Fix Type 1--Padding: 
+Padding: 6
+Number of Threads: 2
+Execution Time: 9.7180817835
+MegaIncrements Computed per Second: 102.9009656718
+
+Fix Type 1--Padding: 
+Padding: 7
+Number of Threads: 2
+Execution Time: 7.6577954460
+MegaIncrements Computed per Second: 130.5858855923
+
+Fix Type 1--Padding: 
+Padding: 8
+Number of Threads: 2
+Execution Time: 6.7594945058
+MegaIncrements Computed per Second: 147.9400566327
+
+Fix Type 1--Padding: 
+Padding: 9
+Number of Threads: 2
+Execution Time: 6.9375887420
+MegaIncrements Computed per Second: 144.1423003277
+
+Fix Type 1--Padding: 
+Padding: 10
+Number of Threads: 2
+Execution Time: 6.8895711116
+MegaIncrements Computed per Second: 145.1469160844
+
+Fix Type 1--Padding: 
+Padding: 11
+Number of Threads: 2
+Execution Time: 7.2608358990
+MegaIncrements Computed per Second: 137.7251894830
+
+Fix Type 1--Padding: 
+Padding: 12
+Number of Threads: 2
+Execution Time: 7.0468086228
+MegaIncrements Computed per Second: 141.9082103021
+
+Fix Type 1--Padding: 
+Padding: 13
+Number of Threads: 2
+Execution Time: 6.8922923096
+MegaIncrements Computed per Second: 145.0896095359
+
+Fix Type 1--Padding: 
+Padding: 14
+Number of Threads: 2
+Execution Time: 6.9656830244
+MegaIncrements Computed per Second: 143.5609396093
+
+Fix Type 1--Padding: 
+Padding: 15
+Number of Threads: 2
+Execution Time: 6.9820799232
+MegaIncrements Computed per Second: 143.2237973507
+
+Fix Type 1--Padding: 
+Padding: 16
+Number of Threads: 2
+Execution Time: 6.9247540254
+MegaIncrements Computed per Second: 144.4094615245
+
+Fix Type 2--Private Variable: 
+Number of Threads: 2
+Execution Time: 6.9469176568
+MegaIncrements Computed per Second: 143.9487337265
+
+Fix Type 1--Padding: 
+Padding: 0
+Number of Threads: 4
+Execution Time: 12.9941224214
+MegaIncrements Computed per Second: 76.9578712261
+
+Fix Type 1--Padding: 
+Padding: 1
+Number of Threads: 4
+Execution Time: 12.9214449469
+MegaIncrements Computed per Second: 77.3907255813
+
+Fix Type 1--Padding: 
+Padding: 2
+Number of Threads: 4
+Execution Time: 12.0499329418
+MegaIncrements Computed per Second: 82.9880136952
+
+Fix Type 1--Padding: 
+Padding: 3
+Number of Threads: 4
+Execution Time: 11.9555375017
+MegaIncrements Computed per Second: 83.6432489845
+
+Fix Type 1--Padding: 
+Padding: 4
+Number of Threads: 4
+Execution Time: 12.7310568821
+MegaIncrements Computed per Second: 78.5480741515
+
+Fix Type 1--Padding: 
+Padding: 5
+Number of Threads: 4
+Execution Time: 11.6938189007
+MegaIncrements Computed per Second: 85.5152631051
+
+Fix Type 1--Padding: 
+Padding: 6
+Number of Threads: 4
+Execution Time: 11.7914909758
+MegaIncrements Computed per Second: 84.8069172978
+
+Fix Type 1--Padding: 
+Padding: 7
+Number of Threads: 4
+Execution Time: 10.4128304180
+MegaIncrements Computed per Second: 96.0353678932
+
+Fix Type 1--Padding: 
+Padding: 8
+Number of Threads: 4
+Execution Time: 10.9409960285
+MegaIncrements Computed per Second: 91.3993568224
+
+Fix Type 1--Padding: 
+Padding: 9
+Number of Threads: 4
+Execution Time: 10.0045329519
+MegaIncrements Computed per Second: 99.9546910197
+
+Fix Type 1--Padding: 
+Padding: 10
+Number of Threads: 4
+Execution Time: 8.5101700872
+MegaIncrements Computed per Second: 117.5064645890
+
+Fix Type 1--Padding: 
+Padding: 11
+Number of Threads: 4
+Execution Time: 8.6338977888
+MegaIncrements Computed per Second: 115.8225432428
+
+Fix Type 1--Padding: 
+Padding: 12
+Number of Threads: 4
+Execution Time: 8.2456848044
+MegaIncrements Computed per Second: 121.2755548777
+
+Fix Type 1--Padding: 
+Padding: 13
+Number of Threads: 4
+Execution Time: 8.8858105484
+MegaIncrements Computed per Second: 112.5389737434
+
+Fix Type 1--Padding: 
+Padding: 14
+Number of Threads: 4
+Execution Time: 8.3416464608
+MegaIncrements Computed per Second: 119.8804102640
+
+Fix Type 1--Padding: 
+Padding: 15
+Number of Threads: 4
+Execution Time: 3.7766108997
+MegaIncrements Computed per Second: 264.7876698325
+
+Fix Type 1--Padding: 
+Padding: 16
+Number of Threads: 4
+Execution Time: 3.6975902226
+MegaIncrements Computed per Second: 270.4464096353
+
+Fix Type 2--Private Variable: 
+Number of Threads: 4
+Execution Time: 3.6946497522
+MegaIncrements Computed per Second: 270.6616505114
